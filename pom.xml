@@ -46,7 +46,7 @@
     </build>
 
     <scm>
-        <developerConnection>scm:git:github.com/vdillon/my-sfg-pet-clinic.git</developerConnection>
+        <developerConnection>scm:git:https://vdillon:E3f94730cB@github.com/vdillon/my-sfg-pet-clinic.git</developerConnection>
       <tag>my-sfg-pet-clinic-0.0.1</tag>
   </scm>
 </project>
